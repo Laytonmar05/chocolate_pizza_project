@@ -1,3 +1,26 @@
 body{
     background: grey;
 }
+nav{
+    text-align: right;
+    
+}
+body{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+li{
+    display: inline;
+}
+span{
+display:block;
+font-size: 40px;
+font-style: oblique;
+}
+.logo{
+    float:left;
+}
+strong{
+    display:block;
+}
