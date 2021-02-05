@@ -52,11 +52,22 @@ h1{
  }
  .leftside{
      margin:auto;
-     margin-top:10p
+     padding-top: 15px;
+     text-align:left;
+     margin-bottom: 0%;
+     vertical-align: bottom;
  }
  .rightside{
      margin: auto;
      margin-top: 10px;
+     margin-bottom: 0%;
+ }
+ .footerlogo{
+     text-align:center;
+     display:block;
+     margin: auto;
+     text-decoration: line-through;
+     position: absolute;
  }
  .ingredients{
     border-bottom: 7px double black
